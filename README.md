@@ -1,3 +1,5 @@
+Live: https://syndicateit.vercel.app
+
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
@@ -11,9 +13,9 @@
 
   <h2 align="center">Desinic - Agency website</h2>
 
-  Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
+<a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -27,7 +29,7 @@
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
